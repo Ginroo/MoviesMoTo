@@ -59,7 +59,7 @@ export class MovieFilterComponent implements OnInit {
 
   //#region clear form
   clearForm(){
-
+      this.form.reset();
   }
   //#endregion
 
