@@ -33,6 +33,8 @@ export class MovieFilterComponent implements OnInit {
       poster: 'https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg'
     }];
 
+    originalMovies = this.movies;
+
   ngOnInit(): void {
     this.form =this.formBuilder.group({
       title: '',
@@ -40,6 +42,19 @@ export class MovieFilterComponent implements OnInit {
       upcomingReleases: false,
       inTheaters: false
     })
+
+    this.form.valueChanges
+    .subscribe(values => 
+      {
+        this.movies = this.originalMovies;
+        this.filterMovies(values);
+      });
+  }
+  
+  filterMovies(values: any){
+    if(values.title){
+      this.movies = this.movies.filter(movie => movie.title.toLowerCase().indexOf(values.title.toLowerCase()) !== -1);
+    }
   }
 
   //#region clear form
