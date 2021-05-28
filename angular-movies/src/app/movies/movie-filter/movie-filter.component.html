@@ -20,6 +20,9 @@
     <div>
         <mat-checkbox formControlName="inTheaters">In Theaters</mat-checkbox>
     </div>
-
-    <button mat-flat-button (click)="clearForm()" color="warn">Clear</button>
+    <div class="clear-container">
+        <button mat-flat-button (click)="clearForm()" color="warn">Clear</button>
+    </div>
 </form>
+
+<app-movies-list [movies]="movies"></app-movies-list>
