@@ -1,6 +1,13 @@
-# AngularMovies
+# MoviesMoto by Rogin Roi Reillo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
+
+## Running Angular
+run this following commands into terminal
+
+npm install --save-dev angular-cli@latest
+Set-ExecutionPolicy AllSigned -Scope CurrentUser
+
 
 ## Development server
 

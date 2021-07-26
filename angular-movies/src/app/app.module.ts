@@ -26,7 +26,8 @@ import { EditMovieTheatersComponent } from './movie-theaters/edit-movie-theaters
 import { FormGenreComponent } from './genres/form-genre/form-genre.component';
 import { MovieFilterComponent } from './movies/movie-filter/movie-filter.component';
 import { FormActorComponent } from './actors/form-actor/form-actor.component';
-import { InputImgComponent } from './utils/input-img/input-img.component';
+import { CommonModule } from '@angular/common';
+import { InputImgComponent } from './utilities/input-img/input-img.component';
 
 @NgModule({
   declarations: [
@@ -57,7 +58,8 @@ import { InputImgComponent } from './utils/input-img/input-img.component';
     AppRoutingModule,
     BrowserAnimationsModule,
     MaterialModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    CommonModule
   ],
   providers: [],
   bootstrap: [AppComponent]
