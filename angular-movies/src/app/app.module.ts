@@ -32,6 +32,7 @@ import { CommonModule } from '@angular/common';
 import { InputImgComponent } from './utilities/input-img/input-img.component';
 import { InputMarkdownComponent } from './utilities/input-markdown/input-markdown.component';
 import { MapComponent } from './utilities/map/map.component';
+import { MovieTheaterFormComponent } from './movie-theaters/movie-theater-form/movie-theater-form.component';
 
 @NgModule({
   declarations: [
@@ -58,6 +59,7 @@ import { MapComponent } from './utilities/map/map.component';
     InputImgComponent,
     InputMarkdownComponent,
     MapComponent,
+    MovieTheaterFormComponent,
   ],
   imports: [
     BrowserModule,
