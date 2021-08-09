@@ -8,6 +8,7 @@ import { GenereicListComponent } from './utilities/genereic-list/genereic-list.c
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ReactiveFormsModule,FormsModule } from '@angular/forms'
 import { MarkdownModule } from 'ngx-markdown';
+import {LeafletModule} from '@asymmetrik/ngx-leaflet'
 
 import {MaterialModule} from './material/material.module';
 import { MenuComponent } from './menu/menu.component';
@@ -30,6 +31,7 @@ import { FormActorComponent } from './actors/form-actor/form-actor.component';
 import { CommonModule } from '@angular/common';
 import { InputImgComponent } from './utilities/input-img/input-img.component';
 import { InputMarkdownComponent } from './utilities/input-markdown/input-markdown.component';
+import { MapComponent } from './utilities/map/map.component';
 
 @NgModule({
   declarations: [
@@ -55,6 +57,7 @@ import { InputMarkdownComponent } from './utilities/input-markdown/input-markdow
     FormActorComponent,
     InputImgComponent,
     InputMarkdownComponent,
+    MapComponent,
   ],
   imports: [
     BrowserModule,
@@ -64,6 +67,7 @@ import { InputMarkdownComponent } from './utilities/input-markdown/input-markdow
     ReactiveFormsModule,
     CommonModule,
     FormsModule,
+    LeafletModule,
     MarkdownModule.forRoot()
   ],
   providers: [],
