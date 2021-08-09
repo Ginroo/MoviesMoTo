@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
-import { movieTheatersCreationDTO } from '../movie-theater-form/movie-theaters.model';
+import { movieTheatersCreationDTO, movieTheatersDTO } from '../movie-theater-form/movie-theaters.model';
 
 @Component({
   selector: 'app-edit-movie-theaters',
@@ -11,7 +11,9 @@ export class EditMovieTheatersComponent implements OnInit {
 
   constructor(private activatedRoute: ActivatedRoute) { }
 
-  model: movieTheatersCreationDTO = {name: 'Tony Stark'}
+  model: movieTheatersDTO = {name: 'Rogin House', 
+  latitude: 14.706859664291095, 
+  longitude: 121.1299302576663}
 
   ngOnInit(): void {
     this.activatedRoute.params.subscribe(params => {

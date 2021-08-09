@@ -8,7 +8,8 @@ import { GenereicListComponent } from './utilities/genereic-list/genereic-list.c
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ReactiveFormsModule,FormsModule } from '@angular/forms'
 import { MarkdownModule } from 'ngx-markdown';
-import {LeafletModule} from '@asymmetrik/ngx-leaflet'
+import { LeafletModule } from '@asymmetrik/ngx-leaflet';
+// import "leaflet/dist/images/marker-shadow.png";
 
 import {MaterialModule} from './material/material.module';
 import { MenuComponent } from './menu/menu.component';
