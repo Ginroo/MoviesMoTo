@@ -35,6 +35,7 @@ import { InputMarkdownComponent } from './utilities/input-markdown/input-markdow
 import { MapComponent } from './utilities/map/map.component';
 import { MovieTheaterFormComponent } from './movie-theaters/movie-theater-form/movie-theater-form.component';
 import { FormMovieComponent } from './movies/form-movie/form-movie.component';
+import { MultipleSelectorComponent } from './utilities/multiple-selector/multiple-selector.component';
 
 @NgModule({
   declarations: [
@@ -63,6 +64,7 @@ import { FormMovieComponent } from './movies/form-movie/form-movie.component';
     MapComponent,
     MovieTheaterFormComponent,
     FormMovieComponent,
+    MultipleSelectorComponent,
   ],
   imports: [
     BrowserModule,
