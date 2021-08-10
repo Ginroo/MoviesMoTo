@@ -21,12 +21,12 @@ export class MultipleSelectorComponent implements OnInit {
 
   select(item: multipleSelectorModel, index: number){
     this.SelectedItems.push(item);
-    this.NonSelectedItems.splice(index,1);
+    this.NonSelectedItems.splice(index, 1);
   }
 
   deSelect(item: multipleSelectorModel, index: number){
     this.NonSelectedItems.push(item);
-    this.SelectedItems.splice(index,1);
+    this.SelectedItems.splice(index, 1);
   }
 
   selectAll(){
