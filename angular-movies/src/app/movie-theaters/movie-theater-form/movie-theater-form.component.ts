@@ -38,7 +38,7 @@ export class MovieTheaterFormComponent implements OnInit {
 
     if(this.model !== undefined){
       this.form.patchValue(this.model);
-      this.initialCoordinates.push({latitude: this.model.latitude, longitude: this.model.longitude})
+      this.initialCoordinates.push({latitude: this.model.latitude, longitude: this.model.longitude});
     }
   }
 
