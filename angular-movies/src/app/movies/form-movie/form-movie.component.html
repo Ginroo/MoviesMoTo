@@ -5,7 +5,7 @@
         <mat-error>The title is required</mat-error>
     </mat-form-field>
 
-    <div>
+    <div class="checkbox-container">
         <mat-checkbox formControlName="inTheaters">In Theaters</mat-checkbox>
     </div>
 
@@ -31,4 +31,11 @@
     [markdownContent]="model?.summary"
     (changeMarkdown)="changeMarkDown($event)">
     </app-input-markdown>
+
+    <div>
+        <button mat-flat-button color="primary" [disabled]="form.invalid">
+            Save Changes
+        </button>
+        <a mat-stroked-button routerLink="/">Cancel</a>
+    </div>
 </form>
