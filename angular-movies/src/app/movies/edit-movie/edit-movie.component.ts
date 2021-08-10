@@ -22,7 +22,6 @@ export class EditMovieComponent implements OnInit {
 
   saveChanges(movieCreationDTO: movieCreationDTO){
     console.log(movieCreationDTO);
-    console.log("auth");
   }
 
 }
