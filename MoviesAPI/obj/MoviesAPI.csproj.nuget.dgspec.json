@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programming\\AngularMovies\\MoviesAPI\\MoviesAPI.csproj": {}
+    "C:\\Users\\reill\\Documents\\Programming\\Projects\\MoviesMoTo\\MoviesAPI\\MoviesAPI.csproj": {}
   },
   "projects": {
-    "C:\\Programming\\AngularMovies\\MoviesAPI\\MoviesAPI.csproj": {
+    "C:\\Users\\reill\\Documents\\Programming\\Projects\\MoviesMoTo\\MoviesAPI\\MoviesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programming\\AngularMovies\\MoviesAPI\\MoviesAPI.csproj",
+        "projectUniqueName": "C:\\Users\\reill\\Documents\\Programming\\Projects\\MoviesMoTo\\MoviesAPI\\MoviesAPI.csproj",
         "projectName": "MoviesAPI",
-        "projectPath": "C:\\Programming\\AngularMovies\\MoviesAPI\\MoviesAPI.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Programming\\AngularMovies\\MoviesAPI\\obj\\",
+        "projectPath": "C:\\Users\\reill\\Documents\\Programming\\Projects\\MoviesMoTo\\MoviesAPI\\MoviesAPI.csproj",
+        "packagesPath": "C:\\Users\\reill\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\reill\\Documents\\Programming\\Projects\\MoviesMoTo\\MoviesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\reill\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -70,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
