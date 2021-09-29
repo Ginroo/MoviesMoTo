@@ -55,4 +55,3 @@ C:\Users\reill\Documents\Programming\Projects\MoviesMoTo\MoviesAPI\obj\Debug\net
 C:\Users\reill\Documents\Programming\Projects\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\ref\MoviesAPI.dll
 C:\Users\reill\Documents\Programming\Projects\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\MoviesAPI.pdb
 C:\Users\reill\Documents\Programming\Projects\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\MoviesAPI.genruntimeconfig.cache
-C:\Users\reill\Documents\Programming\Projects\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\MoviesAPI.csproj.AssemblyReference.cache

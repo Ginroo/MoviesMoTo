@@ -18,10 +18,14 @@ namespace MoviesAPI.Services
 
             };
         }
-
         public List<Genre> GetAllGenres()
         {
             return _genres;
+        }
+
+        public Genre GetGenreById(int Id)
+        {
+            return _genres.FirstOrDefault(x => x.id == Id);
         }
     }
 }
