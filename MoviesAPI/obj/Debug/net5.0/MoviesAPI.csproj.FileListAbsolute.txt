@@ -56,3 +56,32 @@ C:\Users\reill\Documents\Programming\Projects\MoviesMoTo\MoviesAPI\obj\Debug\net
 C:\Users\reill\Documents\Programming\Projects\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\MoviesAPI.pdb
 C:\Users\reill\Documents\Programming\Projects\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\MoviesAPI.genruntimeconfig.cache
 C:\Users\reill\Documents\Programming\Projects\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\MoviesAPI.csproj.AssemblyReference.cache
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\bin\Debug\net5.0\appsettings.json
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\bin\Debug\net5.0\MoviesAPI.exe
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\bin\Debug\net5.0\MoviesAPI.deps.json
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\bin\Debug\net5.0\MoviesAPI.runtimeconfig.json
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\bin\Debug\net5.0\MoviesAPI.runtimeconfig.dev.json
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\bin\Debug\net5.0\MoviesAPI.dll
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\bin\Debug\net5.0\ref\MoviesAPI.dll
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\bin\Debug\net5.0\MoviesAPI.pdb
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\MoviesAPI.csproj.AssemblyReference.cache
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\MoviesAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\MoviesAPI.AssemblyInfoInputs.cache
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\MoviesAPI.AssemblyInfo.cs
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\MoviesAPI.csproj.CoreCompileInputs.cache
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\MoviesAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\MoviesAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\staticwebassets\MoviesAPI.StaticWebAssets.Manifest.cache
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\staticwebassets\MoviesAPI.StaticWebAssets.xml
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\scopedcss\bundle\MoviesAPI.styles.css
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\MoviesAPI.RazorTargetAssemblyInfo.cache
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\MoviesAPI.csproj.CopyComplete
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\MoviesAPI.dll
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\ref\MoviesAPI.dll
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\MoviesAPI.pdb
+D:\Programming Files\Udemy\MoviesMoTo\MoviesAPI\obj\Debug\net5.0\MoviesAPI.genruntimeconfig.cache
